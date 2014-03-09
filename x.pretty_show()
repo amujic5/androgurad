@@ -1,6 +1,7 @@
 #more info about a method
 for x in d.get_methods():
     x.pretty_show()
+    
 ########## Method Information
 Lcom/oobgolf/mobile/BaseApplication;-><init>()V [access_flags=public constructor]
 ########## Params
