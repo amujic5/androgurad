@@ -6,6 +6,9 @@ from androguard.core.analysis import analysis
 from androguard.decompiler.dad import decompile
 from androguard.core.analysis import ganalysis
 
+#"UILabs" is my app
+#TEST = "C:/Users/Azzi/Desktop/an/UILabs.apk"
+#apk (https://play.google.com/store/apps/details?id=com.oobgolf.mobile)
 TEST = "C:/Users/Azzi/Desktop/an/mobile.apk"
 
 # information about files, permissions and different entry points(activities, services...)
