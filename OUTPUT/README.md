@@ -1,4 +1,0 @@
-androgurad
-==========
-
-first andrguard analyse

@@ -1,0 +1,120 @@
+FILES: 
+	assets/beforeFlightMOCK_en.html Unknown -3b8248ef
+	assets/beforeFlightMOCK_hr.html Unknown 185a6a51
+	assets/luggageMock_en.html Unknown 4ce4e0f2
+	assets/luggageMock_hr.html Unknown -4a61973d
+	assets/style.css Unknown 26d0f0f5
+	res/anim/fade_in.xml Unknown 97fd333
+	res/anim/fade_out.xml Unknown -1d0fba7e
+	res/anim/flipp_out_left.xml Unknown -61589e8d
+	res/anim/flipp_out_right.xml Unknown 14b7819a
+	res/drawable/aaa.xml Unknown -597f10fc
+	res/drawable/bluecellrectangleshape.xml Unknown -3c0f7278
+	res/drawable/bluecellroundbottomshape.xml Unknown 5dd0d640
+	res/drawable/bluetitlecellroundtopshape.xml Unknown 40273cd4
+	res/drawable/cellbottomhighlight.xml Unknown 73f6dddc
+	res/drawable/cellgraystrokeroundbottomshape.xml Unknown -7c7636f3
+	res/drawable/cellgraystrokewhitebackground.xml Unknown 2a98111b
+	res/drawable/cellhighlight.xml Unknown 339ecf44
+	res/drawable/cellrectangleshape.xml Unknown 2ea704aa
+	res/drawable/cellroundbottomshape.xml Unknown -70c7c0ca
+	res/drawable/cellroundedcornersshape.xml Unknown -3ada5bff
+	res/drawable/cellroundtopshape.xml Unknown -5c12a7a
+	res/drawable/cellselectedshape.xml Unknown 5d050784
+	res/drawable/celltexthighlight.xml Unknown 2c9ddad
+	res/drawable/celltophighlight.xml Unknown -620a9911
+	res/drawable/homescreenbuttonhighlight.xml Unknown 75679727
+	res/drawable/menubuttonhighlight.xml Unknown -509ada3a
+	res/drawable/menubuttonshape.xml Unknown 4f69096a
+	res/drawable/menubuttonshapeselected.xml Unknown 2c6fb0ac
+	res/drawable/selectedcolor.xml Unknown 1454a7a4
+	res/drawable/todaybuttonshape.xml Unknown -dda07c0
+	res/drawable/todayselectedbuttonshape.xml Unknown 5a57b6f6
+	res/drawable/tomorrowbuttonshape.xml Unknown -e53bd17
+	res/drawable/tomorrowselectedbuttonshape.xml Unknown 116ff8c7
+	res/drawable/yesterdaybuttonshape.xml Unknown -11f230fd
+	res/drawable/yesterdayselectedbuttonshape.xml Unknown ece752d
+	res/layout/autocompletelistitem.xml Unknown 134f2ed5
+	res/layout/branches.xml Unknown 62ca8260
+	res/layout/branchesdetails.xml Unknown -174479ab
+	res/layout/branchesdetailslistitemlayout.xml Unknown 1f19a87c
+	res/layout/brancheslistitemlayout.xml Unknown 70633232
+	res/layout/contact.xml Unknown a587351
+	res/layout/flightcheckin.xml Unknown -33c79aaf
+	res/layout/flightstatus.xml Unknown -57156674
+	res/layout/flightstatusresults.xml Unknown -60c5383c
+	res/layout/homescreen.xml Unknown 7485b1cb
+	res/layout/luggage.xml Unknown -123c86af
+	res/layout/scheduleflightdetails.xml Unknown -2f68bc47
+	res/layout/scheduleresults.xml Unknown 5737f52c
+	res/layout/scheduleresultslistitemlayout.xml Unknown 2c4331fd
+	res/layout/schedulesearch.xml Unknown -72716e78
+	res/layout/settings.xml Unknown 220afd19
+	res/layout/transport.xml Unknown 5e1d0d4a
+	res/layout/transportdetails_airporttost.xml Unknown -73a62c7e
+	res/layout/transportdetails_airporttozg.xml Unknown 47ba3f95
+	res/layout/transportdetails_du.xml Unknown 784a917
+	res/layout/transportdetails_ri.xml Unknown -74c399ed
+	res/layout/transportdetails_sttoairport.xml Unknown -4427fee4
+	res/layout/transportdetails_zd.xml Unknown -16d6084c
+	res/layout/transportdetails_zgtoairport.xml Unknown 4272d5b2
+	res/layout/viewflipper.xml Unknown 2459d2b0
+	AndroidManifest.xml Unknown -75b21403
+	resources.arsc Unknown 7502df08
+	res/drawable-hdpi/calendar.png Unknown -3b88cb0c
+	res/drawable-hdpi/emptybluebackground.png Unknown -31897200
+	res/drawable-hdpi/flightinfotitlebackground.png Unknown -629e7096
+	res/drawable-hdpi/flightnumbertitlebackground.png Unknown -56da6fdd
+	res/drawable-hdpi/googlemaps.png Unknown 32336468
+	res/drawable-hdpi/homescreenbackground.jpg Unknown 27a8374a
+	res/drawable-hdpi/icon2x.png Unknown -57223292
+	res/drawable-hdpi/mainbackground.png Unknown 5c7efe82
+	res/drawable-ldpi/checkinicon.png Unknown 7a3969ef
+	res/drawable-ldpi/contacticon.png Unknown 5dcde687
+	res/drawable-ldpi/flightstatusicon.png Unknown -3496da75
+	res/drawable-ldpi/luggageicon.png Unknown -5ce8fbaf
+	res/drawable-ldpi/officesicon.png Unknown -16088a6c
+	res/drawable-ldpi/scheduleicon.png Unknown -37745560
+	res/drawable-ldpi/settingsicon.png Unknown -46e42a0a
+	res/drawable-ldpi/transporticon.png Unknown -5912f12e
+	res/drawable-ldpi/webicon.png Unknown -1dcae1d8
+	res/drawable-mdpi/arrivalheader.png Unknown -2a696273
+	res/drawable-mdpi/arrowleft.png Unknown 4059531d
+	res/drawable-mdpi/arrowright.png Unknown -105baa1c
+	res/drawable-mdpi/bottomwhiteboarder.png Unknown 29f5190d
+	res/drawable-mdpi/departureheader.png Unknown 4ecfc75
+	res/drawable-mdpi/leftwhiteboarder.png Unknown -160c4048
+	res/drawable-mdpi/rightwhiteboarder.png Unknown 30ca454f
+	res/drawable-mdpi/split_zracna_luka_cet.png Unknown 10b3f37b
+	res/drawable-mdpi/split_zracna_luka_ned.png Unknown -17a9838d
+	res/drawable-mdpi/split_zracna_luka_pet.png Unknown -463c0bff
+	res/drawable-mdpi/split_zracna_luka_pon.png Unknown 476a3690
+	res/drawable-mdpi/split_zracna_luka_sri.png Unknown 516c79b6
+	res/drawable-mdpi/split_zracna_luka_sub.png Unknown 123b9ac9
+	res/drawable-mdpi/split_zracna_luka_uto.png Unknown 2b80c027
+	res/drawable-mdpi/zagreb_zracna_luka.png Unknown -2349014d
+	res/drawable-mdpi/zracna_luka_split_cet.png Unknown -2d15de2c
+	res/drawable-mdpi/zracna_luka_split_ned.png Unknown -4c0b1f66
+	res/drawable-mdpi/zracna_luka_split_pet.png Unknown 37b3fdf9
+	res/drawable-mdpi/zracna_luka_split_pon.png Unknown 37b3fdf9
+	res/drawable-mdpi/zracna_luka_split_sri.png Unknown -28c2fa99
+	res/drawable-mdpi/zracna_luka_split_sub.png Unknown 56f35e3f
+	res/drawable-mdpi/zracna_luka_split_uto.png Unknown -7c110c12
+	res/drawable-mdpi/zracna_luka_zagreb.png Unknown -7baced6a
+	classes.dex Unknown 12bb2f46
+	META-INF/MANIFEST.MF Unknown -41949413
+	META-INF/CERT.SF Unknown -4a475b96
+	META-INF/CERT.RSA Unknown 3656d05f
+PERMISSIONS: 
+	android.permission.ACCESS_NETWORK_STATE ['normal', 'view network status', 'Allows an application to view the status of all networks.']
+	android.permission.INTERNET ['dangerous', 'full Internet access', 'Allows an application to create network sockets.']
+MAIN ACTIVITY:  net.croz.android.croair.MainMenuActivity
+ACTIVITIES:  ['net.croz.android.croair.MainMenuActivity', 'net.croz.android.croair.FlightStatusActivity', 'net.croz.android.croair.ScheduleActivity', 'net.croz.android.croair.BranchesActivity', 'net.croz.android.croair.SettingsActivity', 'net.croz.android.croair.ContactActivity', 'net.croz.android.croair.FlightCheckInActivity', 'net.croz.android.croair.LuggageActivity', 'net.croz.android.croair.TransportActivity']
+SERVICES:  []
+RECEIVERS:  []
+PROVIDERS:  []
+['net.croz.android.croair.MainMenuActivity', 'net.croz.android.croair.FlightStatusActivity', 'net.croz.android.croair.ScheduleActivity', 'net.croz.android.croair.BranchesActivity', 'net.croz.android.croair.SettingsActivity', 'net.croz.android.croair.ContactActivity', 'net.croz.android.croair.FlightCheckInActivity', 'net.croz.android.croair.LuggageActivity', 'net.croz.android.croair.TransportActivity']
+{'Code': u'9', 'Name': u'1.0.8'}
+None
+8
+546924
